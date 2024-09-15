@@ -1,0 +1,1 @@
+02-02-2024 05:33:21.332 INFO: Retrieved all rows from todos table: [{"rawid":1,"content":"prepare popcorn","duedate":"1703881891000","state":"PENDING","title":"New Year"},{"rawid":2,"content":"students... damn.","duedate":"1711744291000","state":"PENDING","title":"Reception hours for kaplat"}] | request #0
